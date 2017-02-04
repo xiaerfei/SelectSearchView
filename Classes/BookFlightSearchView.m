@@ -2,7 +2,7 @@
 //  BookFlightSearchView.m
 //  PromiseKitDemo
 //
-//  Created by rongyu100 on 2017/1/20.
+//  Created by xiaerfei on 2017/1/20.
 //  Copyright © 2017年 Rongyu100. All rights reserved.
 //
 
